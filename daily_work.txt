@@ -1,0 +1,155 @@
+ http://update.lanetteam.com
+Username: 301
+Password: B7GzFW
+
+Date :16/12/2019
+------------------
+Tasks
+-understand the various component of node js
+-Modules,how to load module,Path,methods and properties paths
+ os methods and properties
+-import the methods and properites into another file by practical
+-import and demonstrate the usage of npm packages practically
+-list out various response code meaning of that code
+-various content-types and use of that content type
+-learn about global packages
+-do a practical program which demonstrate the authorization and usage of middleware in that
+
+Date :17/12/2019
+------------------
+Tasks
+-Do the program in node js which demonstrate the use of multiple Middleware in same route
+-Do one program which demonstrate the us of router in node js
+ in which i created two file which contains the code for get,put,post,delete and
+ export it and use these exported module in another file to call the routes
+-start the leaning of mongo db
+-undertsatnd the following operation
+  creation of database
+  creation of collection
+  insertion in collection
+  update of specific document
+  delete the document
+  find and display data in proper format
+Date :18/12/2019
+------------------
+Tasks
+Practical Tasks
+1-perform insert,update,delete,and select operation in the database
+2-create vehcile table and store the vehcile information with its type according to the header by using multple router
+Learn about following methods
+Limit()
+Skip()
+sort()
+learn them functionality by documentation and examples
+Learn and try the functionality of callback function
+
+
+Tomorrow Task
+I will Learn that how to call node js router through the html form and pass data between them
+
+
+Date :19/12/2019
+------------------
+Tasks
+Practical Task
+1-Do a program for transfering datat from html form to the api and insert that data into the database
+2-learn the concept of promise,callback,then,asyn function,await with practical example
+3-create one program and store the crediantial into the token in with encryption and also decrypt this
+4-start a new project on which i created one table and create one route for login and insert the log-in details into the store role,name,and id into token and get the role from token
+
+Tomorrow Task
+Try to complete the task which provide read and write based on role of logged in user
+
+Date:20/12/2019
+------------------
+Tasks
+Practical Task
+ Create a node application which include endpoint(API) to create,list, get specific, put, and delete
+-When record is created at that time res.header send sign jet token and payload of jwt token inside id, name,role
+-In rest that is list, get, put, delete if token is not found then send 401 error
+-Collection name user fields
+-Name,email add, gender,dob,role(read,write, admin)
+-When path params./id and payload id are different then send 403 error but not when role is admin
+-If any user role is read then that user cannot write any record
+-I Try to call this api from UI  and also get the response but getting problem that the api itself redirected
+
+Tomorrow Task:
+Try to solve the problem which is coming above to create a proper UI for calling the node api
+
+Date:21/12/2019
+------------------
+Tasks:
+Practical task
+-There was problem in the endpoint which i created yesterday which was that i put the role vadlidation in each route so i 
+created one middleware and put all the role vadlidation in that
+in that i use request.method and compare the method which is called and according to this further process taking place
+
+-start a new project name employe management to create a node api for pratsing for the test
+
+Date:21/12/2019
+------------------
+Tasks:
+-Learn and practise for validator control in node js and practise for variuos its method with practical example
+-Practise for mongo db aggregate function with example
+  -$group
+  -$sum
+  -$count
+  -$min,$max,$avg
+-Appear for the node js practical test
+
+Date:24/12/2019
+------------------
+Tasks:start learning the basic introduction of git from tutorials point
+-learn about CVCS and DVCS
+-unstersatnd and practise the follwing command by practical example in this i have created one folder and created 3 file into this
+ -add
+ -commit,commit -m
+ -checkout
+ -log
+ -diff
+ -rm --cached
+ -status
+ -merge	
+Date:25/12/2019
+------------------
+Complete the git
+Start the basics of android which include
+-learn the introduction of react native
+-how to configure the android studio
+-start a first project which demonstrate the working environment of andorid
+
+Date:26/12/2019
+------------------
+-Two topic were left in git that i covered today
+ -what is conflict that occures during the merging of branch with another or higher branch and how that occures and how to    resolve that conflict
+-how to push files when permission denied that for pushing a file in particular repository but still pendig with that how to push a file in someone others repository
+-Learn the architecure of android by viewing video and documentation
+-understand the folling terms
+ -Broadcast Receivers
+ -Activities
+ -Services
+ -Views
+ -Intents
+ -Layouts
+ -Manifest
+Tommorow Task
+-Try to push file in the others repository
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+  
